@@ -17,3 +17,14 @@ but you need to go beyond that.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+The big $\Theta$ time complexity is $\Theta$(n) as it iterates the code n times. The input chnaging does not change the complexity it just goes linearly.  
+
+## Sources 
+https://www.google.com/search?q=eulers+number&rlz=1C1RXQR_enUS1097US1097&oq=eulers+number&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCDMwNzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 
+
+For this I first looked up eulers number. I then coded it to resemble the equation and when looking for test code I checked lilybrongo and nathanaelConnell to get ideas. I relazied how simialr the code looks so I want to add I did not look at anyones. The test code is my own attempt with the help of chatgpt. 
+
+
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice. 
